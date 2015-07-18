@@ -1,0 +1,28 @@
+/* /fibanez_social/static/fibanez_social/theme/css/ */
+.social-icons-nav-area {
+    position: absolute;
+    left: 50%;  
+}
+ul.social-icons {
+  margin-right: 0em;
+}
+.social-icons li {
+  margin-right: 0em;
+  display: inline;
+}
+.fa-facebook {
+}
+.fa-twitter {
+}
+.fa-linkedin {
+}
+
+@media (min-width: 480px) {
+	.social-icons-nav-area {
+	    clear: both; 
+	    position: inherit;
+        left: 0;
+	    display: block;
+	    float: right;
+	}
+}
