@@ -52,6 +52,9 @@ fibanez_site/settings.py
 .pydevproject
 .project
 
-fibanez_site/settings.py
 templates/_default_cms
 templates/_default_zinnia
+migrations_django/
+static/*
+
+
